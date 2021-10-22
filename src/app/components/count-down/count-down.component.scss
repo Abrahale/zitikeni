@@ -1,0 +1,9 @@
+.timer{
+    margin: auto;
+
+    .days,.hours,.minutes,.seconds{
+        font-size: 32px;
+        font-weight: 700;
+        padding: 0 10px;
+    }
+}
